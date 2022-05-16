@@ -10,3 +10,6 @@ This is the learning record of my `PathPlanning Algorithm`.
 - pandas
 - cvxpy
 - Scipy
+
+#### Update
+
